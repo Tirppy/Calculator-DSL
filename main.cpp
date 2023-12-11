@@ -20,9 +20,7 @@ void standart()
 	string dir;
 	cout<<"Type file directory:\n";
 	
-	dir = "C:\\Sandu\\Uni\\PC\\SI\\TEXT2.txt";
-	
-	//cin>>dir;
+	cin>>dir;
 	
 	system("cls");
     
